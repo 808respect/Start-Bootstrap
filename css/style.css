@@ -1,0 +1,339 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 55px;
+}
+.navigationbar{
+    width: 100%;
+    background-color: rgb(41, 61, 82);
+    color: white;
+    padding: 30px 0px 30px 0px;
+}
+h4{
+    margin-left: 170px;
+    margin-right: 400px;
+    font-family: sans-serif;
+    font-size: 25px;
+ }
+ .star{
+    width: 40px;
+    height: 40px;
+ }
+.navigationbar ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+ }
+ .navigationbar ul li a:hover{
+    color: greenyellow;
+ }  
+ .navigationbar ul li{
+    display: inline-block;
+    margin-right: 50px;  
+ }  
+ .firstpage{
+    width: 100%;
+    background-color: rgb(0, 194, 157);
+    color: white;
+    padding-bottom: 120px;
+ }  
+ .man{
+    width: 210px;
+    height: 180px;
+    margin-left: 580px;
+    margin-top: 100px;
+ } 
+ h1{
+    margin-left: 395px;
+    margin-top: 40px;
+    font-size: 60px;
+ } 
+ .starr{
+    margin-left: 670px;
+    margin-top: 10px;
+ } 
+ .line1{
+    width: 120px;
+    height: 4px;
+    background-color: white;
+ }  
+.rightline{
+    margin-left: 540px;
+    margin-top: -25px;
+}
+.leftline{
+    margin-left: 720px;
+    margin-top: -3px;
+}
+.firstpage p{
+    font-size: 23px;
+    margin-top: 45px;
+    margin-left: 480px;
+}
+
+.portfolio{
+    padding: 120px 200px 0px 0px;
+    color: rgb(42, 62, 83);
+    height: 750px;
+}
+.portfoliotext{
+    margin-left: 550px;
+}
+.blackstarr{
+    margin-top: 35px;
+    margin-left: 690px;
+}
+.line2{
+    width: 120px;
+    height: 4px;
+    background-color: rgb(42, 62, 83);
+ }  
+.rightline2{
+    margin-left: 560px;
+    margin-top: -25px;
+}
+.leftline2{
+    margin-left: 740px;
+    margin-top: -4px;
+}
+.cake1{
+    position: relative;
+    background-color: rgb(199, 62, 94);
+    width: 300px;
+    height: 200px;
+    margin-left: 240px;
+    top: 100px;
+    border-radius: 12px;
+ }
+ .cake{
+      position: relative;
+      width: 150px;
+      height: 150px;
+      top: 10%;
+      left: 25%;
+      background-color: orangered;
+      border-radius: 30px;
+    }
+ 
+    .hut1{
+             position: relative;
+             background-color: rgb(0, 166, 186);
+             width: 300px;
+             height: 200px;
+             margin-left: 570px;
+             border-radius: 12px;
+             top: -100px;
+          }
+          
+    .hut{
+             position: relative;
+             width: 150px;
+             height: 150px;
+             top: 10%;
+             left: 25%;
+             background-color: rgb(109, 184, 79);
+             border-radius: 30px;
+          }
+ 
+    .circus-tent1{
+             position: relative;
+             background-color: black;
+             width: 300px;
+             height: 200px;
+             margin-left: 900px;
+             top: -300px;
+             border-radius: 12px;
+          }
+          
+    .circus{
+             position: relative;
+             width: 150px;
+             height: 150px;
+             top: 12%;
+             left: 25%;
+             background-color: rgb(237, 240, 236);
+             border-radius: 30px;
+           }
+ 
+    .joypad1{
+             position: relative;
+             background-color: rgb(0, 128, 199);
+             width: 300px;
+             height: 200px;
+             margin-left: 240px;
+             top: -270px;
+             border-radius: 12px;
+          }
+          
+    .joypad{
+             position: relative;
+             width: 150px;
+             height: 150px;
+             top: 10%;
+             left: 25%;
+             background-color: orange;
+             border-radius: 30px;
+           }
+ 
+     .safe-box1{
+             position: relative;
+             background-color: rgb(33, 23, 188);
+             width: 300px;
+             height: 200px;
+             margin-left: 569px;
+             top: -470px;
+             border-radius: 12px;
+          }
+          
+    .safe{
+             position: relative;
+             width: 150px;
+             height: 150px;
+             top: 10%;
+             left: 25%;
+             background-color: yellow;
+             border-radius: 30px;
+           }
+ 
+.submarine1{
+     position: relative;
+     background-color: rgb(0, 193, 158);
+     width: 300px;
+     height: 200px;
+     margin-left: 900px;
+     top: -670px;
+     opacity: 80%;
+     border-radius: 12px;
+}
+          
+ .submarine{
+             position: relative;
+             width: 150px;
+             height: 150px;
+             top: 10%;
+             left: 25%;
+             background-color: darkgreen;
+             border-radius: 30px;
+}
+.aboutrectangle{
+    width: 100%;
+    background-color: rgb(93,203,156);
+    padding: 65px 0px 90px 0px;
+    text-align: center;
+    color: white;
+}
+.whit{
+    margin-top: 10px;
+}
+.rightline3{
+    margin-left: 563px;
+    margin-top: -25px;
+}
+.leftline3{
+    margin-left: 740px;
+    margin-top: -4px;
+}
+.lass{
+    margin-left: 360px;
+    margin-top: 50px;
+    text-align: left;  
+}
+.ss{position: relative;
+  margin-left: 740px;
+  margin-top: -165px;
+  text-align: left;
+ }
+ .aboutrectangle p{
+    font-size: 19px;
+    line-height: 27px;
+ }
+ .ton{
+    width: 210px;
+    height: 55px;
+    margin-top: 70px;
+    background-color: rgb(93,203,156);
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    font-size: 19px;
+    font-weight: 350;
+}
+.contactme{
+    text-align: center;
+    padding: 90px 0px 90px 90px;
+}
+.rightline4{
+    margin-left: 515px;
+    margin-top: -25px;
+}
+.leftline4{
+    margin-left: 700px;
+    margin-top: -4px;
+}
+.boaderz{
+    padding: 30px 400px 30px 0px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 23px;
+    font-weight: lighter;
+    margin-left: -150px;
+    border-color: rgba(199, 193, 193, 0.427);
+}
+.name{
+    margin-top: 40px;
+}
+.message{
+    padding-bottom: 200px;
+}
+.butto{
+    width: 120px;
+    height: 55px;
+    background-color: rgb(93,203,156);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: -680px;
+}
+.footer{
+    position: relative;
+    width: 100%;
+    background-color: rgb(41, 61, 82);
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+.footerp{
+    display: block;
+    margin-left: 300px;
+}
+.footerpp{
+    margin-left: 600px;
+    margin-top: -80px;
+}
+
+.footerppp{
+    margin-left: 970px;
+    margin-top: -45px;
+}
+h6{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.copyright{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(24, 37, 48);
+    color: white;
+    text-align: center;
+}
+.copyr{
+    padding-top: 20px;
+}
